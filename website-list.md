@@ -2,8 +2,9 @@
 
 Client | URL | Design | Year
 ------------ | ------------- | ------------- | -------------
-Tenth House| https://www.tenthhouse.me/ | Foxall Studio | 2025
+92am| https://92am.com/| Unveil | Soon
 Aurelien Grellier-Bekker| https://aureliengrellierbeker.com/ | Joanna Spadillero | 2025
+Tenth House| https://www.tenthhouse.me/ | Foxall Studio | 2025
 Emilien [soon]| https://emilienofficial.com/ | Chant contre-Chant | 2025
 Lumel associées | https://lumel-associees.fr/ | Marius Turpin | 2025
 Montrachet Jazz | https://montrachetjazz.com/fr | Claudie Dubost | 2025

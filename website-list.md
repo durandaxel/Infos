@@ -2,7 +2,8 @@
 
 Client | URL | Design | Year
 ------------ | ------------- | ------------- | -------------
-92am| https://92am.com/| Unveil | Soon
+AGB House | https://agb.house | Joanna Spadillero | 2025
+92am| https://92am.com/| Unveil | 2025
 Aurelien Grellier-Bekker| https://aureliengrellierbeker.com/ | Joanna Spadillero | 2025
 Tenth House| https://www.tenthhouse.me/ | Foxall Studio | 2025
 Emilien [soon]| https://emilienofficial.com/ | Chant contre-Chant | 2025

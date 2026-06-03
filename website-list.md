@@ -2,7 +2,7 @@
 
 Client | URL | Design | Year
 ------------ | ------------- | ------------- | -------------
-AGB House | https://agb.house | Joanna Spadillero | 2025
+AGB House | https://agb.house | Joanna Spadillero | 2026
 92am| https://92am.com/| Unveil | 2025
 Aurelien Grellier-Bekker| https://aureliengrellierbeker.com/ | Joanna Spadillero | 2025
 Tenth House| https://www.tenthhouse.me/ | Foxall Studio | 2025

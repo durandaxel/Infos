@@ -2,11 +2,14 @@
 
 Client | URL | Design | Year
 ------------ | ------------- | ------------- | -------------
+Altavoce | https://altavoce-avocats.com/ | Violaine & Jérémy | 2026
+Troublemakers | https://troublemakers.tv/ | Joanna Spadillero | 2026
 AGB House | https://agb.house | Joanna Spadillero | 2026
 92am| https://92am.com/| Unveil | 2025
+Edge+Ease | https://theedgeandease.com/ | For Lever Street (Design only) | 2025
 Aurelien Grellier-Bekker| https://aureliengrellierbeker.com/ | Joanna Spadillero | 2025
 Tenth House| https://www.tenthhouse.me/ | Foxall Studio | 2025
-Emilien [soon]| https://emilienofficial.com/ | Chant contre-Chant | 2025
+Emilien| https://emilienofficial.com/ | Killian Maguet x AAD | 2025
 Lumel associées | https://lumel-associees.fr/ | Marius Turpin | 2025
 Montrachet Jazz | https://montrachetjazz.com/fr | Claudie Dubost | 2025
 Labo Flou | https://labo-flou.com/ | Guillaume Bihan | 2024

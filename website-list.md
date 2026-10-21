@@ -2,11 +2,13 @@
 
 Client | URL | Design | Year
 ------------ | ------------- | ------------- | -------------
+Diane Desclaux | https://dianedesclaux.com/ | X | 2026
 Altavoce | https://altavoce-avocats.com/ | Violaine & Jérémy | 2026
 Troublemakers | https://troublemakers.tv/ | Joanna Spadillero | 2026
 AGB House | https://agb.house | Joanna Spadillero | 2026
 92am| https://92am.com/| Unveil | 2025
 Edge+Ease | https://theedgeandease.com/ | X (for Lever Street) | 2025
+Atelier Axel Durand | https://axeldurand.eu/ | X | 2025
 Aurelien Grellier-Bekker| https://aureliengrellierbeker.com/ | Joanna Spadillero | 2025
 Tenth House| https://www.tenthhouse.me/ | Foxall Studio | 2025
 Emilien| https://emilienofficial.com/ | Killian Maguet x AAD | 2025
